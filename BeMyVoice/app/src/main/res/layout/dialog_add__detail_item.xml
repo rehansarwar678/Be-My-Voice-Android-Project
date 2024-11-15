@@ -1,0 +1,49 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="15dp">
+
+    <EditText
+        android:id="@+id/editTextItemName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/dynamicOrange"
+        android:hint="@string/enter_item_name"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        tools:ignore="Autofill,TextFields" />
+
+    <EditText
+        android:id="@+id/editTextItemDescription"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:backgroundTint="@color/dynamicOrange"
+        android:hint="@string/enter_description"
+        android:padding="10dp"
+        android:textColor="@color/black"
+        tools:ignore="Autofill,TextFields" />
+
+    <ImageView
+        android:id="@+id/selectImageView"
+        android:layout_width="100dp"
+        android:layout_height="100dp"
+        android:layout_gravity="center"
+        android:scaleType="centerCrop"
+        android:visibility="gone"
+        tools:ignore="ContentDescription" />
+
+    <Button
+        android:id="@+id/chooseImageButton"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginStart="40dp"
+        android:layout_marginTop="5dp"
+        android:layout_marginEnd="40dp"
+        android:layout_marginBottom="10dp"
+        android:text="@string/choose_image" />
+
+</LinearLayout>

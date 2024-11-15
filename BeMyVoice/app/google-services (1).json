@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "459654959535",
+    "project_id": "be-my-voice-839fc",
+    "storage_bucket": "be-my-voice-839fc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:459654959535:android:4301594522906dfdf85f5a",
+        "android_client_info": {
+          "package_name": "com.example.easychat"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAcvbQ5a-AGrndQtUybeWdnIgy8ACjY6O8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

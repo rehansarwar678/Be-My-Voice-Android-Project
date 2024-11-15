@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <array name="icon_array" translatable="false">
+        <item>@drawable/house</item>
+        <item>@drawable/market</item>
+        <item>@drawable/bff</item>
+        <item>@drawable/kitchen</item>
+        <item>@drawable/worker</item>
+    </array>
+</resources>

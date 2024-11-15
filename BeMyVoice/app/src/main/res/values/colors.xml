@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+<!--    <color name="my_primary">#007BFF</color>
+    <color name="my_primary_transparent">#3C007BFF</color>-->
+    <color name="my_primary">#911748</color>
+    <color name="my_primary_transparent">#3C911748</color>
+
+    <!--    <color name="my_primary">#00CED1</color>
+    <color name="my_primary_transparent">#3C00CED1</color>-->
+    <color name="my_secondary">#28A745</color>
+
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="off_white">#FAFAFA</color>
+    <color name="light_gray">#D3D3D3</color>
+    <color name="darkGrey">#838383</color>
+    <color name="chat_color_sender">#7CB342</color>
+    <color name="chat_color_receiver">#FFA500</color>
+
+    //Primary
+    <color name="vibrantBlue">#911748</color>
+<!--    <color name="vibrantBlue">#007BFF</color>-->
+    //Secondary
+    <color name="calmGreen">#28A745</color>
+    //Accent
+    <color name="dynamicOrange">#FFA500</color>
+    //Background
+    <color name="softGrey">#D3D3D3</color>
+</resources>

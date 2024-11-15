@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">Be My Voice</string>
+    <string name="send">Send</string>
+    <string name="_00_00_00_00_00_00">00:00:00 / 00:00:00</string>
+    <string name="item_name">Item Name</string>
+    <string name="name">Name</string>
+    <string name="description">Description</string>
+    <string name="add_item">Add Item</string>
+    <string name="enter_item_name">Enter Item Name</string>
+    <string name="chats">Chats</string>
+    <string name="profile">Profile</string>
+    <string name="enter_description">Enter Description</string>
+    <string name="choose_image">Choose Image</string>
+    <string name="select_category">Select Category</string>
+    <string name="select_gallery">Select Gallery</string>
+    <string name="select_library">Select Library</string>
+    <string name="Voice_into_text">Voice into text</string>
+    <string name="gallery">Gallery</string>
+    <string name="camera">Camera</string>
+    <string name="choose_from">Choose From</string>
+    <string name="sign_language">Sign Language</string>
+</resources>
